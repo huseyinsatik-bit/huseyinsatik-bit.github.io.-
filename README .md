@@ -17,7 +17,7 @@ I am a passionate web developer specializing in both frontend and backend develo
 ## Contact Information
 
 For collaboration or inquiries, please feel free to reach out:
-- Email: [Baris.Yildiz@my-aolcc.com](mailto:Huseyin.Satik@my-aolcc.com)
+- Email: [Huseyin.Satik@my-aolcc.com](mailto:Huseyin.Satik@my-aolcc.com)
 
 ## Hosting
 
